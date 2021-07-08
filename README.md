@@ -4,6 +4,8 @@ _Crear el archivo grafico.rb utilizando el método chart,que construya el siguie
 ## Salida 🚀
 
 ```
+$irb
+2.6.0 :001 > require_relative "grafico"
 2.6.0 :002 > chart([5, 3, 2, 5, 10])
 |**********
 |******
